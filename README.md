@@ -1,3 +1,1 @@
-# M_L
-M_L repo
-This a repo for my machine learning projects.
+This is a repo forall my machine learning projects.
